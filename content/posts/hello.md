@@ -13,3 +13,6 @@ description: "这是我搭建的第一个个人博客。"
 ## 接下来的计划
 
 持续输出内容，慢慢优化博客的样式和功能。
+git add hugo.toml
+git commit -m "fix: 更新站点配置，重新触发构建"
+git push
